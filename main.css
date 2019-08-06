@@ -5,7 +5,9 @@
 
 .help-form {
   text-line:right;
-  background-colorblue;
+  background-color:blue;
+  border-style:solid;
+  border-color: darkgray;
 }
 
 

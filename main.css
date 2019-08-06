@@ -3,6 +3,11 @@
   text-align:center;
 }
 
+#help-form {
+  text-line: right;
+  background-color blue;
+}
+
 
 h1  {
   text-align: left;
